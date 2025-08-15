@@ -436,17 +436,17 @@
     "url": "https://www.dnd5eapi.co/api/2014/weapon-properties",
     "icon": "https://icons.duckduckgo.com/ip3/www.dnd5eapi.co.ico",
     "slug": "weapon-properties-2014-rules",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 38,
-    "timeDay": 18,
-    "timeWeek": 28,
-    "timeMonth": 39,
-    "timeYear": 38,
+    "time": 39,
+    "timeDay": 41,
+    "timeWeek": 35,
+    "timeMonth": 41,
+    "timeYear": 39,
     "dailyMinutesDown": {}
   }
 ]
